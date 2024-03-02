@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplication1",
+    "\\WebApplication1\\Controllers",
+    "\\WebApplication1\\Data",
+    "\\WebApplication1\\Migrations",
+    "\\WebApplication1\\Models"
+  ],
+  "SelectedNode": "\\WebApplication1\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
