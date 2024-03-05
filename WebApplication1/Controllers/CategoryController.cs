@@ -1,5 +1,5 @@
-﻿using dotnetweb.Data;
-using dotnetweb.Models;
+﻿using dotnet.DataAccess.Data;
+using dotnet.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
